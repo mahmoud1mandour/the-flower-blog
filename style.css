@@ -1,0 +1,6 @@
+.css-grad {
+  background-image: linear-gradient(to right, #e3e3e3, white);
+}
+.resize {
+  resize: none;
+}
